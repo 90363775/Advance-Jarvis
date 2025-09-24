@@ -1,0 +1,16 @@
+# Jarvis AI Assistant Configuration
+# Remove the # symbol and add your actual API key below
+
+# OpenAI API Key (Get from: https://platform.openai.com/api-keys)
+# OPENAI_API_KEY=your_openai_api_key_here
+
+# Instructions:
+# 1. Sign up at https://platform.openai.com/
+# 2. Go to API Keys section
+# 3. Create a new API key
+# 4. Replace 'your_api_key_here' with your actual key
+# 5. Remove the # symbol from the OPENAI_API_KEY line
+# 6. Save this file
+
+# Example:
+# OPENAI_API_KEY=sk-proj-abcd1234...
